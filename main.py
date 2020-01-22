@@ -1,4 +1,3 @@
-from contact import Contact
 from db_conn import getContacts, addContact
 
 def main():
